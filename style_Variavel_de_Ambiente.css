@@ -1,0 +1,20 @@
+
+	<!---VARIÁVEIS--->
+:root{
+    --corBackgroundPrimaria: #494d51;
+    --corBackgroundSecundaria: #353943;
+    --corBackgroundDark:#0e0e0e;
+    --corTextPrimaria:#848383;
+    --corTextoSecudaria:#000;
+    --corBox:rgb(174, 130, 0);
+
+}
+
+
+	<!----CHAMADA DA VARIAVEL--->
+body{
+
+ 	background-color: var(--corBackgroundPrimaria);
+	font-family: 'Open Sans', sans-serif;
+	
+}
