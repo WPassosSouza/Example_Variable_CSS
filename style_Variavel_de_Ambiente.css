@@ -6,7 +6,10 @@
     --corBackgroundDark:#0e0e0e;
     --corTextPrimaria:#848383;
     --corTextoSecudaria:#000;
-    --corBox:rgb(174, 130, 0);
+    --corBox:rgb(174, 130, 0);	
+    --coluna: 40px;
+    --linha: 30px;
+    --fonte: Arial, san-serif;	
 
 }
 
