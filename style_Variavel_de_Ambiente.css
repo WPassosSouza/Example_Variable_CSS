@@ -18,6 +18,6 @@
 body{
 
  	background-color: var(--corBackgroundPrimaria);
-	font-family: 'Open Sans', sans-serif;
+	font-family: var(--fonte);
 	
 }
